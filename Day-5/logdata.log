@@ -1,0 +1,7 @@
+[2010-04-24 07:51:54,393] DEBUG - [main] BulkOpsClient.main(): Execution begin.
+
+[2010-04-24 07:51:54,393] DEBUG - [main] BulkOpsClient.main(): List of all 
+configurations loaded: {numofthreads=1, impstatchkinterval=30, maxloginattempts=1, 
+manifestfiledir=.\Manifest\, sessionkeepchkinterval=300, routingurl=https://
+sso.crmondemand.com, hosturl=http://sdchs20n263.us.oracle.com, testmode=debug, 
+maxthreadfailure=1, logintimeoutms=180000, csvblocksize=1000, maxsoapsize=10240}
