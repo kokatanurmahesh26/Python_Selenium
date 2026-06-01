@@ -50,7 +50,8 @@ try :
     #descendant
     descendatnt_ele = driver.find_element(By.XPATH, "//div[@id= 'Wikipedia1']/descendant::input[@class = 'wikipedia-search-button']")
 
-#child - //select[@id = 'colors']/child::option[@value = "blue"]
+    #child - //select[@id = 'colors']/child::option[@value = "blue"]
+    
 
 
 
