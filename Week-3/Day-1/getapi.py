@@ -12,6 +12,8 @@ print("Status Code:", response.status_code)
 # Convert response into JSON
 data = response.json()
 
+# print("data text : ",response.text)
+
 # Print total products
 print("Total users:", data["total"])
 
